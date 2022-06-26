@@ -4,6 +4,8 @@ Hi 👋 My name is Rotimi Olaoluwa
 I'm a self-taught front-end developer😎
 ---------------------------------------
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Rolexero/Rolexero/blob/main/devcard.svg" width="400" alt="Olaoluwa Rotimi's Dev Card"/></a>
+
 I've been learning to code for about 2 years now. I got interest in programming due to my love for video games and always wanting to build. So I started front end development, which have developed great interest and passion in this career path, especially for the fact that I never stop learning new stuff relating to web development
 
 * 🌍  I'm based in Lagos, Nigeria
