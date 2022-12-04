@@ -11,7 +11,7 @@ I've been learning to code for about 2 years now. I got interest in programming 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [rotimiolaolu@gmail.com](mailto:rotimiolaolu@gmail.com)
 * 🚀  I'm currently working on [A Crypto web app](https://rolex-crypto.vercel.app/)
-* 🧠  I'm learning React Redux for state management
+* 🧠  I'm learning typescript
 * 🤝  I'm open to collaborating on Interesting front-end projects. With my front-end skills, i try to build and develop dynamic front-end application
 * ⚡  Also love listening to music, so weird i don't like watching movies😅
 
