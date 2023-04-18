@@ -1,17 +1,17 @@
 Hi 👋 My name is Rotimi Olaoluwa
 ================================
 
-I'm a self-taught front-end developer😎
+I'm a Front-end Engineer😎
 ---------------------------------------
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Rolexero/Rolexero/blob/main/devcard.svg" width="400" alt="Olaoluwa Rotimi's Dev Card"/></a>
 
-I've been learning to code for about 2 years now. I got interest in programming due to my love for video games and always wanting to build. So I started front end development, which have developed great interest and passion in this career path, especially for the fact that I never stop learning new stuff relating to web development
+I've been learning to code for about 4 years now. I got interest in programming due to my love for video games and always wanting to build. So I started front end development, which have developed great interest and passion in this career path, especially for the fact that I never stop learning new stuff relating to web development
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [rotimiolaolu@gmail.com](mailto:rotimiolaolu@gmail.com)
 * 🚀  I'm currently working on [A Crypto web app](https://rolex-crypto.vercel.app/)
-* 🧠  I'm learning typescript
+* 🧠  I'm learning typescript and nextjs
 * 🤝  I'm open to collaborating on Interesting front-end projects. With my front-end skills, i try to build and develop dynamic front-end application
 * ⚡  Also love listening to music, so weird i don't like watching movies😅
 
