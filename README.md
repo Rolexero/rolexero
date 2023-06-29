@@ -10,10 +10,10 @@ I've been learning to code for about 4 years now. I got interest in programming 
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [rotimiolaolu@gmail.com](mailto:rotimiolaolu@gmail.com)
-* 🚀  I'm currently working on [A Crypto web app](https://rolex-crypto.vercel.app/)
+* 🚀  I'm currently working on [Get Ticket](getticket247.vercel.app)
 * 🧠  I'm learning typescript and nextjs
-* 🤝  I'm open to collaborating on Interesting front-end projects. With my front-end skills, i try to build and develop dynamic front-end application
-* ⚡  Also love listening to music, so weird i don't like watching movies😅
+* 🤝  I'm open to collaborating on Interesting front-end projects. With my front-end skills, I try to build and develop dynamic front-end application
+* ⚡  Also love listening to music, so weird I don't like watching movies😅
 
 <a href="https://www.twitter.com/Rolexero1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Rolexero1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
