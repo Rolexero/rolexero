@@ -1,4 +1,4 @@
-Hi 👋 My name is Rotimi Olaoluwa
+Hi 👋 I'm Rotimi Olaoluwa
 ================================
 
 I'm a Front-end Engineer😎
