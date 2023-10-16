@@ -1,7 +1,7 @@
 Hi 👋 I'm Rotimi Olaoluwa
 ================================
 
-I'm a Front-end Engineer😎
+Front-end Engineer😎
 ---------------------------------------
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Rolexero/Rolexero/blob/main/devcard.svg" width="400" alt="Olaoluwa Rotimi's Dev Card"/></a>
