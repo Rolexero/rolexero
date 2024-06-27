@@ -11,7 +11,6 @@ I've been learning to code for about 4 years now. I got interest in programming 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [rotimiolaolu@gmail.com](mailto:rotimiolaolu@gmail.com)
 * 🚀  I'm currently working on a ticketing app [Get Ticket](https://github.com/akindunjoyetolulope/getticket247)
-* 🧠  I'm learning typescript and nextjs
 * 🤝  I'm open to collaborating on Interesting front-end projects. With my front-end skills, I try to build and develop dynamic front-end application
 * ⚡  Also love listening to music, so weird I don't like watching movies😅
 
